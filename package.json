@@ -1,0 +1,28 @@
+{
+  "name": "@notverywellc/fire.app",
+  "version": "0.0.0",
+  "description": "fireapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotVeryWellF/fire.app.git"
+  },
+  "author": "NotVeryWellF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NotVeryWellF/fire.app/issues"
+  },
+  "homepage": "https://github.com/NotVeryWellF/fire.app#readme",
+  "dependencies": {
+    "typescript": "^4.4.3",
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0",
+    "ts-loader": "^9.2.5",
+    "systemjs": "^6.10.3",
+    "@types/node": "^16.9.2",
+    "@types/systemjs": "^6.1.1"
+  }
+}
