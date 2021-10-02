@@ -1,6 +1,6 @@
 {
   "name": "@notverywellc/fire.app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "fireapp",
   "main": "index.js",
   "scripts": {
