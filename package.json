@@ -1,6 +1,6 @@
 {
   "name": "@notverywellc/fire.app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fireapp",
   "main": "webpack.config.js",
   "scripts": {
